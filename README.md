@@ -1,4 +1,4 @@
-# Sekhar Trimurthulu
+# ADDALA SEKHAR TRIMURTHULU 
 
 Entry-Level DevOps / Cloud Enthusiast with hands-on experience in AWS, Linux, Git, and Python automation.
 
