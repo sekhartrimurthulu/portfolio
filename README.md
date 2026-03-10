@@ -1,13 +1,29 @@
 # ADDALA SEKHAR TRIMURTHULU 
-
+---
 Entry-Level DevOps / Cloud Enthusiast with hands-on experience in AWS, Linux, Git, and Python automation.
-
+---
 ## Skills
-- AWS (EC2, S3, IAM)
-- Linux Administration
-- Git & GitHub
-- Python Automation
+
+Cloud Platforms
+- AWS (EC2, S3, IAM, Security Groups)
+
+DevOps Tools
+- Git
+- GitHub
+- Basic CI/CD
+
+Programming
+- Python
+
+Operating Systems
+- Linux
+
+Database
 - SQL
+
+Tools
+- VS Code
+- GitHub SQL
 
 ## Projects
 
