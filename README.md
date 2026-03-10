@@ -36,6 +36,7 @@ Practiced Git workflows including pull requests, branching and merge conflict re
 ### Python Automation Scripts
 Developed automation scripts for system health checks and log monitoring.
 link:https://github.com/sekhartrimurthulu/git-projects
+
 ---
 ## Certifications
 - Fundamentals of Cloud Computing – upGrad
