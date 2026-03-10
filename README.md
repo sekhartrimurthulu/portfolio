@@ -35,7 +35,7 @@ Practiced Git workflows including pull requests, branching and merge conflict re
 
 ### Python Automation Scripts
 Developed automation scripts for system health checks and log monitoring.
-Link: https://github.com/sekhartrimurthulu/git-projects
+Link: [https://github.com/sekhartrimurthulu/git-projects](https://github.com/sekhartrimurthulu/python-system-health-monitor)
 
 ---
 ## Certifications
