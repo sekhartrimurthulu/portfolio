@@ -34,8 +34,7 @@ Deployed a web application on AWS EC2 with security groups and IAM roles.
 Practiced Git workflows including pull requests, branching and merge conflict resolution.
 
 ### Python Automation Scripts
-Developed automation scripts for system health checks and log monitoring.
-Link: [https://github.com/sekhartrimurthulu/git-projects](https://github.com/sekhartrimurthulu/python-system-health-monitor)
+Developed Python automation scripts to monitor system health, including CPU usage, memory usage, disk utilization, and system uptime. The script automatically generates log reports for system monitoring. [Link: [https://github.com/sekhartrimurthulu/git-projects](https://github.com/sekhartrimurthulu/python-system-health-monitor)]
 
 ---
 ## Certifications
