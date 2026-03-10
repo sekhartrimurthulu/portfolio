@@ -23,11 +23,11 @@ link:https://github.com/sekhartrimurthulu/git-projects
 
 ## Certifications
 - Fundamentals of Cloud Computing – upGrad
-  link: https://drive.google.com/file/d/1oHyrIYvUNEbzaKjARk6C7J-WIFdvA3vg/view?usp=sharing
+  link: cloud-computing-upgrad.pdf
 - Certified Basic Python – Great Learning
-  link: 
+  link: python-greatlearning.pdf
 - Machine Learning Basics – Inspire Softech
-  link: https://drive.google.com/file/d/18rSY04iXTRf3NaRFYXe3KC9t2Dx16nVM/view?usp=sharing
+  link: machine-learning-inspire.pdf
 
 ## Contact
 Email: sekharaddala03@gmail.com  
