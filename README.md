@@ -39,11 +39,11 @@ Developed Python automation scripts to monitor system health, including CPU usag
 ---
 ## Certifications
 - Fundamentals of Cloud Computing – upGrad
-  Link: [cloud-computing-upgrad.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/cloud-computing-upgrad.pdf)
+  [Link: [cloud-computing-upgrad.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/cloud-computing-upgrad.pdf)]
 - Certified Basic Python – Great Learning
-  Link: [python-greatlearning.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/python-greatlearning.pdf)
+   [Link: [python-greatlearning.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/python-greatlearning.pdf)]
 - Machine Learning Basics – Inspire Softech
-  Link: [machine-learning-inspire.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/machine-learning-inspire.pdf)
+  [Link: [machine-learning-inspire.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/machine-learning-inspire.pdf)]
 ---
 ## Contact
 Email: sekharaddala03@gmail.com  
