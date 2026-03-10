@@ -35,16 +35,16 @@ Practiced Git workflows including pull requests, branching and merge conflict re
 
 ### Python Automation Scripts
 Developed automation scripts for system health checks and log monitoring.
-link:https://github.com/sekhartrimurthulu/git-projects
+Link: https://github.com/sekhartrimurthulu/git-projects
 
 ---
 ## Certifications
 - Fundamentals of Cloud Computing – upGrad
-  link: [cloud-computing-upgrad.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/cloud-computing-upgrad.pdf)
+  Link: [cloud-computing-upgrad.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/cloud-computing-upgrad.pdf)
 - Certified Basic Python – Great Learning
-  link: [python-greatlearning.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/python-greatlearning.pdf)
+  Link: [python-greatlearning.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/python-greatlearning.pdf)
 - Machine Learning Basics – Inspire Softech
-  link: [machine-learning-inspire.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/machine-learning-inspire.pdf)
+  Link: [machine-learning-inspire.pdf](https://github.com/sekhartrimurthulu/certifications/blob/main/machine-learning-inspire.pdf)
 ---
 ## Contact
 Email: sekharaddala03@gmail.com  
