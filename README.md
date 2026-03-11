@@ -28,13 +28,13 @@ Tools
 ## Projects
 
 ### AWS EC2 Website Deployment
-Deployed a web application on AWS EC2 with security groups and IAM roles.
-
+Deployed a static website on an Amazon EC2 instance using Amazon Linux. Installed and configured Apache HTTP Server and hosted an HTML webpage accessible via the instance public IP address. Configured security groups to allow HTTP traffic.
+Link: [https://github.com/sekhartrimurthulu/aws-ec2-website-deployment]
 ### Git Version Control Implementation
 Practiced Git workflows including pull requests, branching and merge conflict resolution.
 
 ### Python Automation Scripts
-Developed Python automation scripts to monitor system health, including CPU usage, memory usage, disk utilization, and system uptime. The script automatically generates log reports for system monitoring. [Link: [https://github.com/sekhartrimurthulu/git-projects](https://github.com/sekhartrimurthulu/python-system-health-monitor)]
+Developed a Python automation script to monitor system performance including CPU usage, memory usage, disk utilization, and system uptime using the psutil library. Implemented automated logging to record system health reports for monitoring and analysis.(Project Link)[Link: [https://github.com/sekhartrimurthulu/git-projects](https://github.com/sekhartrimurthulu/python-system-health-monitor)]
 
 ---
 ## Certifications
